@@ -1,15 +1,11 @@
-## **Programming Languages**
-
+**Programming Languages**
 <p> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
     </a>
 </p>
 
-<br>
-
-## **Frontend**
-
+**Frontend**
 <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/>
@@ -19,18 +15,14 @@
     </a> 
 </p>
 
-<br>
-
-## **Backend**
-
+**Backend**
+<p>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
 </a>
+</p>
 
-<br>
-
-## **Databases**
-
+**Databases**
 <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/>
@@ -43,19 +35,13 @@
     </a>
 </p>
 
-<br>
-
-## **Operating Systems**
-
+**Operating Systems**
 <p>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" title="Linux"/>
     </a>
 </p>
 
-
-<br>
-<br>
 <br>
 
 [![Most Used Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=voss29&langs_count=8&exclude_repo=knowledge_base)](https://github.com/anuraghazra/github-readme-stats)
