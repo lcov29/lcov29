@@ -1,4 +1,4 @@
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voss29&langs_count=8&exclude_repo=knowledge_base&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voss29&langs_count=8&exclude_repo=knowledgeBase&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
